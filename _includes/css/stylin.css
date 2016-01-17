@@ -1,0 +1,9 @@
+.header-photo {
+	border-radius: 50%;
+    box-shadow: 0 0 1rem 1rem rgb(44, 62, 80);
+    transform: rotate(-90deg);
+    height: 20rem;
+    width: 20rem;
+}
+
+hr.no-max-width { max-width: none; }
