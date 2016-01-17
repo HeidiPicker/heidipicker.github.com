@@ -1,5 +1,7 @@
 hr.no-max-width { max-width: none; }
 footer .no-padding-top { padding-top: 0; }
+#portfolio .portfolio-item .portfolio-link.max-width-10rem { max-width: 10rem; }
+#portfolio .portfolio-item .portfolio-link .caption .caption-content.adjust-mt { margin-top: -0.8rem; }
 
 .header-photo,
 .footer-photo {

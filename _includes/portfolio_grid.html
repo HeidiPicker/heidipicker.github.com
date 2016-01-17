@@ -10,14 +10,14 @@
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                    <div class="col-xs-2 portfolio-item">
+                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link max-width-10rem" data-toggle="modal">
                             <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
+                                <div class="caption-content adjust-mt">
+                                    <i class="fa fa-search-plus fa-2x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img src="{{ post.img }}" class="img-responsive img-centered">
                         </a>
                     </div>
                 {% endfor %}

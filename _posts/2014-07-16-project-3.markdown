@@ -2,11 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACCElEQVRoQ+1Yu0oDQRS9o5IIIuQLlOiaR5VsaZeggvYqKBYJ2gjWgmApCNaCTSApJIXaK0RJOstdqzxcE/QLIlEwQV2ZmBXz2p2Z3TyZre+595x7zmQzi2DAHzTg/IEL6LWD3AHugMkN8AiZXKBpuKEDSxvbMiDkMz2JrYGciEdEPaixgM0dlW22NahEPKLLkVjA/tGZNYwIu5wc7lYruYClWoS4A4TR0co6FqHj+woRlYN5W10dLY4L0NbHzwBR4JqLeITaRYj2MGp9aHEdc4AxEdQwLqCbEWp8Z+DZHXOANsskZ6CrAqjDzAjomAOMfKhhXMDQ/ZWgzoBFAMtuZBbxoW5jSoCUVkKAIEo91UqACmHRK8TatWx7qZfSjwFAKImB2fwzXN3cWUnLsNfq8gK4Z6Z/61Q1KHrnUq1ALQVIuYIfvr8wecdHuQKn5xdQLpPdxAyZERbY7TbY21qHcXv1ZleEkdGg6HLKjfAmAVKh4IDyZxIA+XHx5fUt5AovhGOtLXM5p2BtZbHWVJXBPhYUnc7i/ynNAjIK3nyAhUqx9A4P2SddqM89C47JCZb2GJMSPUKwrQApq0RBhRBrdzmbh9fSmy4ck8cimB8EMdEthDV8nQNSRunpZ0RSUaJH+OM9XAJIN9BPdYYfd/uJLPF7oN9J6/6MDhJ5zJVHqNeOcQe4AyY38AN/6wVAcflPfAAAAABJRU5ErkJggg==
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: e-learning
+title: E-learning
 
 ---
