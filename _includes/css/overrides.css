@@ -2,6 +2,24 @@ hr.no-max-width { max-width: none; }
 footer .no-padding-top { padding-top: 0; }
 #portfolio .portfolio-item .portfolio-link.max-width-10rem { max-width: 10rem; }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content.adjust-mt { margin-top: -0.8rem; }
+#portfolio .portfolio-item.max-height { max-height: 10rem; }
+#portfolio .portfolio-item.m-b { margin-bottom: 3rem; }
+.padding-lr-half-em {
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+}
+
+@media (max-width: 500px) { .portfolio-text { font-size: 1.5rem; } }
+.portfolio-text {
+	font-size: 2rem;
+	text-align: center;
+}
+
+
+.portfolio-icon-hw {
+	height: 7rem;
+	width: 7rem;
+}
 
 .header-photo,
 .footer-photo {

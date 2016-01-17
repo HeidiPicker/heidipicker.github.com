@@ -7,5 +7,6 @@ alt: image-alt
 project-date: April 2014
 description: acting resume
 title: Acting Resume
+sub-title: Acting Resume
 
 ---
