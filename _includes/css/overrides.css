@@ -7,8 +7,6 @@ footer .no-padding-top { padding-top: 0; }
 .footer-photo {
 	border-radius: 50%;
     box-shadow: 0 0 1rem 1rem rgb(44, 62, 80);
-    height: 20rem;
-    width: 20rem;
 }
 
 .footer-photo {
