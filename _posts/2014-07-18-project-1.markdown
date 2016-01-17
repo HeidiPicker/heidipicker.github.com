@@ -7,6 +7,5 @@ alt: image-alt
 project-date: April 2014
 description: comercial demo
 title: Comercial Demo
-sub-title: Comercial Demo
 
 ---

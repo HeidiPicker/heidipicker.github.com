@@ -7,6 +7,5 @@ alt: image-alt
 project-date: April 2014
 description: teaching artist resume
 title: Teaching Artist Resume
-sub-title: Teaching Artist Resume
 
 ---
