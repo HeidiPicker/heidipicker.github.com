@@ -1,3 +1,5 @@
+hr.no-max-width { max-width: none; }
+
 .header-photo,
 .footer-photo {
 	border-radius: 50%;
@@ -6,5 +8,8 @@
     width: 20rem;
 }
 
-.footer-photo { transform: rotate(-90deg); }
-hr.no-max-width { max-width: none; }
+.footer-photo {
+	transform: rotate(-90deg);
+    height: 7rem;
+    width: 7rem;
+}
