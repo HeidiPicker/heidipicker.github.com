@@ -30,7 +30,7 @@ footer .no-padding-top { padding-top: 0; }
 .footer-photo { transform: rotate(-90deg); }
 
 .fa-crazy {
-	content: url("img/crazy-max-min.JPG");
+	content: url("img/crazy-max-min.jpg");
     border-radius: 50%;
     height: 1.28571429em;
     margin-bottom: -0.5rem;
