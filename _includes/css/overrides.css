@@ -21,16 +21,13 @@ footer .no-padding-top { padding-top: 0; }
 	width: 7rem;
 }
 
-.header-photo,
-.footer-photo {
+.header-photo {
 	border-radius: 50%;
     box-shadow: 0 0 1rem 1rem rgb(44, 62, 80);
 }
 
-.footer-photo { transform: rotate(-90deg); }
-
 .fa-crazy {
-	content: url("img/crazy-max-min.jpg");
+	content: url("img/crazy-max-min.JPG");
     border-radius: 50%;
     height: 1.28571429em;
     margin-bottom: -0.5rem;
