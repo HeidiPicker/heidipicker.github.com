@@ -32,3 +32,5 @@ footer .no-padding-top { padding-top: 0; }
     height: 1.28571429em;
     margin-bottom: -0.5rem;
 }
+
+.row-top-spacer { margin-top: 2rem; }

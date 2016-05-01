@@ -6,7 +6,7 @@ date: 2014-07-15
 img: beigeradioforsite.svg
 alt: image-alt
 project-date: April 2014
-description: character audio
-title: Character
+description: Nonprofit Campaign
+title: Nonprofit Campaign
 
 ---
