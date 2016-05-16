@@ -34,3 +34,26 @@ footer .no-padding-top { padding-top: 0; }
 }
 
 .row-top-spacer { margin-top: 2rem; }
+
+.client-item {
+	list-style: none;
+	display: inline-block;
+	margin: 1em;
+}
+
+.client-item-img { height: 10em; }
+.center-text { text-align: center; }
+
+section.section-override { padding: 1em 0; }
+.heart-logo { height: 19em; }
+.email {
+	color: rgb(44, 62, 80);
+	font-size: 2em;
+}
+
+.skills-color { color: rgb(0, 0, 10, 13); }
+
+.header-container { padding: 5em 0 1em; }
+@media (min-width: 768px) {
+	.header-container { padding: 8em 0 1em; }
+}
